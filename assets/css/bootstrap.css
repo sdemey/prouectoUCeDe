@@ -10920,4 +10920,8 @@ textarea.form-control-lg {
   }
 }
 
+.text-justify {
+  text-align: justify !important;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
